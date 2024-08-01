@@ -32,7 +32,7 @@ Typically this can be done like so:
 pyenv versions
 pyenv install 3.12.2
 pyenv local 3.12.2 # setup your local Python version
-python -m venv .venv # create a virtual environment
+pyenv exec python -m venv .venv # create a virtual environment
 source .venv/bin/activate # activate the virtual environment and start using the environment
 ```
 
