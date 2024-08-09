@@ -68,7 +68,7 @@ Use the following command to start a PgVector container named `codesydney`. We a
 ```bash
 docker run --name codesydney -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 -v $(pwd)/postgres:/var/lib/postgresql/data:rw ankane/pgvector
 ```
-For powershell
+For powershell in Windows
 ```bash
 docker run --name codesydney -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 -v ${pwd}/postgres:/var/lib/postgresql/data:rw ankane/pgvector
 ```
