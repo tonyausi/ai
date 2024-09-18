@@ -74,31 +74,32 @@ We will be following the learning path below:
 - Basic RAG in LlamaIndex and LangChain
 - Chunking strategies
 - Embedding model selection
+- [Link to Module 4 (Part 1) meeting recording](https://youtu.be/j6ypyScIH9M)
+- [Link to Module 4 (Part 2) meeting recording](https://youtu.be/GbG2PGlBS3k)
 
-[**Project 2** RAG Mini project](.)
-- Build a simple RAG model using LlamaIndex and LangChain
+[**Project 2** Simple RAG project](.)
+- Build a simple RAG system using LlamaIndex or LangChain
+- Deliverables:
+    - Jupyter notebook with your RAG model using your own data (pdf, markdown or documents)
+    - Documentation on how to setup Vector Database, Local LLM and run the simple RAG model
+    - personal Github repo with your RAG project
+    - Assume you are presenting this to a client
 
-[**Module 5** Advanced RAG](module-5/README.md)
-- RAG failure modes
-- Advanced RAG strategies
-- Metadata filtering and RAG
-- RAG with multiple documents
-
-[**Project 3** Advanced RAG project](.)
-- Build a Chatbot that works for Complex queries and against multiple documents
-
-[**Module 6** Frontend options](module-6/README.md)
+[**Module 5** Frontend/Backend options](module-5/README.md)
 - Introduction to Frontend options
 - StreamLit
 - NextJS
 - ReactJS
 - Chainlit
-
-**Module 7** Backend options
-- Introduction to Backend options
 - Flask
 - FastAPI
 - DJango
+
+[**Module 6** Advanced RAG](module-6/README.md)
+- RAG failure modes
+- Advanced RAG strategies
+- Metadata filtering and RAG
+- RAG with multiple documents
 
 **Project 4** End to End Generative AI project
 - document ingestion pipeline
